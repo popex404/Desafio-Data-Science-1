@@ -1,0 +1,17 @@
+# Archivos de notebooks temporales
+*.ipynb_checkpoints
+
+# Salidas y gráficos
+outputs/
+*.png
+*.jpg
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+.env
+.venv
+*.pyc
+__pycache__/
