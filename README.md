@@ -8,8 +8,7 @@ El objetivo de este desafío es asistir al señor Juan en la toma de decisión s
 
 El proyecto está organizado en los siguientes componentes:
 
-- `notebooks/`: Incluye el notebook principal del análisis, desarrollado en Google Colab.
-- `outputs/`: Carpeta destinada a almacenar gráficos, reportes y resultados generados.
+- `Desafio_Data_Science_1.ipynb`: El notebook principal del análisis, desarrollado en Google Colab.
 - `README.md`: Este archivo, con la documentación principal del proyecto.
 - `.gitignore`: Archivos y carpetas excluidos del control de versiones.
 
@@ -23,17 +22,7 @@ El análisis estará enfocado en los siguientes aspectos, alineados con los requ
 - Productos más y menos vendidos en cada tienda.
 - Costo promedio de envío por tienda: Evaluar la eficiencia del proceso logístico.
 
-## Ejemplos de gráficos e insights (plantilla)
-
-A continuación se mostrarán ejemplos de los principales gráficos y hallazgos obtenidos (serán completados una vez realizado el análisis):
-
-- Gráfico de barras: Facturación total por tienda.
-- Gráfico de pastel: Distribución de categorías más populares.
-- Gráfico de barras: Evaluaciones promedio de clientes por tienda.
-- Tabla: Productos más y menos vendidos.
-- Boxplot: Costo de envío por tienda.
-
-> Los insights y visualizaciones estarán disponibles al finalizar el desarrollo del notebook.
+> Los insights y visualizaciones estan disponibles en el noteboook.
 
 ## Instrucciones para ejecutar el notebook
 
@@ -48,6 +37,4 @@ Para ejecutarlo:
 3. No es necesario descargar manualmente los datos, ya que el notebook realiza la extracción de datos automáticamente.
 4. Ejecuta las celdas para reproducir el análisis y generar los resultados.
 
----
-
-Este README será actualizado con los resultados y conclusiones una vez finalizado el análisis.
+Sin embargo es posible no ejecutarlo y leer la sección de Informe para los insights y conclusiones.
