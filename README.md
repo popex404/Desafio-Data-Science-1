@@ -28,7 +28,7 @@ El análisis estará enfocado en los siguientes aspectos, alineados con los requ
 
 El análisis principal se desarrolla en un notebook de Google Colab, disponible en el siguiente enlace:
 
-[Notebook de Colab: Desafío Data Science 1](https://drive.google.com/file/d/16QwK1FJzkxDigGND-g5YshNwjP54noQl/view?usp=sharing)
+[Notebook de Colab: Desafío Data Science 1](https://colab.research.google.com/drive/16QwK1FJzkxDigGND-g5YshNwjP54noQl)
 
 Para ejecutarlo:
 
